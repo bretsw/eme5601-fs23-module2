@@ -1,2 +1,5 @@
-# eme5601-fs23-module2
-  Slide deck for EME5601, Module 2: Instructional Systems Design Models (Fall 2023) 
+# EME5601 Module 2: Systems Analysis
+
+Slide deck for EME5601, Module 2: Systems Analysis (Fall 2023)
+
+![](img/2-ISD-model.jpg)
